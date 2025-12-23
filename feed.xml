@@ -8,22 +8,37 @@
 <atom:link href="https://evwbr.github.io/economia/feed.xml" rel="self" type="application/rss+xml"/>
 <link>https://evwbr.github.io/economia/</link>
 <description>Economia reescrita com IA - Evo Web News</description>
-<lastBuildDate>Tue, 23 Dec 2025 01:45:10 GMT</lastBuildDate>
+<lastBuildDate>Tue, 23 Dec 2025 03:45:12 GMT</lastBuildDate>
 <language>pt-BR</language>
 <item>
-<title><![CDATA[Alphabet adquire desenvolvedora de energia limpa Intersect por US$ 4,75 bilhões]]></title>
-<link>https://g1.globo.com/economia/noticia/2025/12/22/alphabet-anuncia-compra-de-desenvolvedora-de-energia-limpa.ghtml</link>
+<title><![CDATA[Governo Federal proíbe e recolhe lotes de marcas de café por irregularidades sanitárias e composição]]></title>
+<link>https://g1.globo.com/economia/agronegocios/noticia/2025/12/23/10-marcas-de-cafe-ou-bebida-sabor-cafe-foram-proibidas-ou-tiveram-lotes-recolhidos-em-2025-veja.ghtml</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Tue, 23 Dec 2025 00:56:06 GMT</pubDate>
+<pubDate>Tue, 23 Dec 2025 03:00:51 GMT</pubDate>
 <category><![CDATA[Economia]]></category>
-<guid isPermaLink="false"><![CDATA[https://g1.globo.com/economia/noticia/2025/12/22/alphabet-anuncia-compra-de-desenvolvedora-de-energia-limpa.ghtml]]></guid>
-<description><![CDATA[A Alphabet, controladora do Google, anunciou a compra da Intersect, empresa de energia limpa, em uma transação que inclui o pagamento em dinheiro e a assunção de dívidas.]]></description>
+<guid isPermaLink="false"><![CDATA[https://g1.globo.com/economia/agronegocios/noticia/2025/12/23/10-marcas-de-cafe-ou-bebida-sabor-cafe-foram-proibidas-ou-tiveram-lotes-recolhidos-em-2025-veja.ghtml]]></guid>
+<description><![CDATA[Dez marcas de café ou bebidas sabor café tiveram lotes recolhidos ou vendas proibidas em 2025 devido a problemas na composição dos produtos e irregularidades sanitárias.]]></description>
 <content:encoded><![CDATA[
-<p>A aquisição ocorre em um contexto de aumento dos investimentos das grandes empresas de tecnologia em energia e capacidade de computação para suportar o avanço da inteligência artificial.</p>
-<p>A Alphabet assumirá os projetos de energia e data centers da Intersect que estão em desenvolvimento ou construção, enquanto os ativos já operacionais no Texas e na Califórnia permanecerão independentes.</p>
-<p>A Intersect possui ativos e projetos com capacidade significativa de geração de energia, que devem estar ativos ou em desenvolvimento até 2028.</p>
-<p>A operação reforça a estratégia da Alphabet de expandir investimentos e parcerias no setor energético, incluindo colaborações recentes com outras empresas de serviços públicos.</p>
-<p>A Intersect continuará operando de forma autônoma em relação à Alphabet, mantendo o suporte dos investidores atuais para os projetos fora do escopo da aquisição.</p>
+<p>O Ministério da Agricultura determinou o recolhimento de 23 lotes de quatro marcas consideradas impróprias para consumo, com presença de matérias estranhas e impurezas. As marcas envolvidas foram Terra da Gente, Jalapão, Made in Brazil e Q-Delícia.</p>
+<p>Além disso, seis marcas tiveram a venda proibida ao longo do ano por irregularidades na composição ou problemas sanitários, incluindo produtos classificados como 'café fake', que utilizam ingredientes diferentes do café tradicional.</p>
+<p>Entre as marcas proibidas estão Melissa, Pingo Preto, Oficial do Brasil, Café Câmara, Fellow Criativo e Vibe Coffee, esta última com a proibição revogada após correção das falhas apontadas, como ausência de rastreabilidade e condições inadequadas de higienização.</p>
+<p>Algumas marcas foram proibidas por utilizar ingredientes de baixa qualidade, como grãos crus e resíduos, enquanto outras apresentaram irregularidades na fabricação e falsificação de selos de pureza.</p>
+<p>O Ministério da Agricultura orienta os consumidores a suspender o consumo dos produtos recolhidos e buscar a substituição</p>
+]]></content:encoded>
+</item>
+<item>
+<title><![CDATA[Governo divulga calendário de pagamento do Bolsa Família para 2026]]></title>
+<link>https://g1.globo.com/economia/noticia/2025/12/23/bolsa-familia-2026-veja-calendario-de-pagamento.ghtml</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Tue, 23 Dec 2025 03:00:41 GMT</pubDate>
+<category><![CDATA[Economia]]></category>
+<guid isPermaLink="false"><![CDATA[https://g1.globo.com/economia/noticia/2025/12/23/bolsa-familia-2026-veja-calendario-de-pagamento.ghtml]]></guid>
+<description><![CDATA[O calendário de pagamento do Bolsa Família para o ano de 2026 foi divulgado, com datas escalonadas]]></description>
+<content:encoded><![CDATA[
+<p>Os pagamentos ocorrerão nos últimos 10 dias úteis de cada mês, com exceção de dezembro, quando os depósitos começam no dia 10 e terminam antes do Natal.</p>
+<p>O benefício é destinado a famílias com renda mensal de até R$ 218 por pessoa, que devem cumprir contrapartidas como manter crianças e adolescentes na escola e acompanhar a saúde de gestantes e crianças.</p>
+<p>Para receber o Bolsa Família, é necessário estar inscrito no Cadastro Único, que é utilizado para avaliar a elegibilidade das famílias aos programas sociais do governo.</p>
+<p>Os beneficiários podem acessar os valores por meio do aplicativo Caixa TEM, internet banking, terminais de autoatendimento, casas lotéricas, correspondentes Caixa Aqui e agências da Caixa Econômica Federal.</p>
 ]]></content:encoded>
 </item>
 </channel></rss>
