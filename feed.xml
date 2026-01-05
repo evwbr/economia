@@ -8,23 +8,48 @@
 <atom:link href="https://evwbr.github.io/economia/feed.xml" rel="self" type="application/rss+xml"/>
 <link>https://evwbr.github.io/economia/</link>
 <description>Economia reescrita com IA - Evo Web News</description>
-<lastBuildDate>Mon, 05 Jan 2026 13:45:11 GMT</lastBuildDate>
+<lastBuildDate>Mon, 05 Jan 2026 15:45:16 GMT</lastBuildDate>
 <language>pt-BR</language>
 <item>
-<title><![CDATA[Preços do ouro e prata sobem em meio a instabilidade política na Venezuela]]></title>
-<link>https://g1.globo.com/economia/noticia/2026/01/05/instabilidade-na-venezuela-impulsiona-alta-do-ouro-e-recorde-da-prata.ghtml</link>
+<title><![CDATA[Entidades do setor financeiro manifestam apoio à supervisão do Banco Central]]></title>
+<link>https://g1.globo.com/economia/noticia/2026/01/05/sem-citar-caso-master-entidades-do-setor-financeiro-divulgam-nota-em-defesa-do-bc-plena-confianca.ghtml</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Mon, 05 Jan 2026 13:35:51 GMT</pubDate>
+<pubDate>Mon, 05 Jan 2026 15:39:46 GMT</pubDate>
 <category><![CDATA[Economia]]></category>
-<guid isPermaLink="false"><![CDATA[https://g1.globo.com/economia/noticia/2026/01/05/instabilidade-na-venezuela-impulsiona-alta-do-ouro-e-recorde-da-prata.ghtml]]></guid>
-<description><![CDATA[Os preços do ouro e da prata registram alta nos mercados internacionais, refletindo a instabilidade política decorrente da captura do presidente venezuelano Nicolás Maduro.]]></description>
+<guid isPermaLink="false"><![CDATA[https://g1.globo.com/economia/noticia/2026/01/05/sem-citar-caso-master-entidades-do-setor-financeiro-divulgam-nota-em-defesa-do-bc-plena-confianca.ghtml]]></guid>
+<description><![CDATA[Onze entidades representativas do setor financeiro expressaram apoio aos processos de supervisão realizados pelo Banco Central e à independência da autoridade monetária.]]></description>
 <content:encoded><![CDATA[
-<p>O ouro apresentou valorização, sendo cotado em um patamar elevado em relação à última semana, enquanto a prata atingiu um novo recorde de preço. Esses metais são buscados como ativos de proteção em períodos de incerteza geopolítica.</p>
-<p>Investidores tendem a direcionar recursos para ativos considerados reservas de valor durante crises, buscando segurança diante da volatilidade dos mercados.</p>
-<p>Outros metais, como o cobre, também reagiram ao cenário, refletindo a combinação de aumento do risco e a relevância dos recursos naturais para a segurança energética e industrial.</p>
-<p>Os preços do petróleo mostraram volatilidade, iniciando o dia em queda e apresentando leve recuperação posteriormente. O petróleo Brent e o WTI oscilaram em torno de valores próximos à estabilidade.</p>
-<p>A presidente em exercício da Venezuela divulgou uma carta aberta ao governo dos Estados Unidos solicitando diálogo e colaboração, o que pode influenciar a dinâmica das exportações petrolíferas do país.</p>
-<p>Apesar de possuir as maiores reservas de petróleo do mundo, a produção atual da Venezuela é limitada, situando-se em cerca de um milhão de barris por dia.</p>
+<p>As entidades destacaram a importância da atuação do Banco Central na regulação e supervisão do sistema financeiro.</p>
+<p>O apoio reforça o compromisso do setor com a estabilidade e a transparência do mercado financeiro.</p>
+<p>A manifestação ressalta a relevância da autonomia da autoridade monetária para a condução das políticas econômicas.</p>
+]]></content:encoded>
+</item>
+<item>
+<title><![CDATA[BNDES aprova linha de crédito para Toyota em Sorocaba]]></title>
+<link>https://g1.globo.com/carros/noticia/2026/01/05/dnbes-toyota-credito-milhoes.ghtml</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Mon, 05 Jan 2026 15:34:05 GMT</pubDate>
+<category><![CDATA[Economia]]></category>
+<guid isPermaLink="false"><![CDATA[https://g1.globo.com/carros/noticia/2026/01/05/dnbes-toyota-credito-milhoes.ghtml]]></guid>
+<description><![CDATA[O Banco Nacional de Desenvolvimento Econômico e Social aprovou uma linha de crédito para a Toyota investir em sua planta no interior de São Paulo.]]></description>
+<content:encoded><![CDATA[
+<p>O financiamento será utilizado para o desenvolvimento de novos veículos híbridos flex.</p>
+<p>Além disso, os recursos apoiarão a reconstrução da fábrica que foi afetada por um temporal no ano anterior.</p>
+]]></content:encoded>
+</item>
+<item>
+<title><![CDATA[TCU autoriza inspeção no Banco Central sobre liquidação do Banco Master]]></title>
+<link>https://g1.globo.com/economia/noticia/2026/01/05/tcu-confirma-autorizacao-de-inspecao-no-bc-sobre-liquidacao-do-master.ghtml</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Mon, 05 Jan 2026 15:28:20 GMT</pubDate>
+<category><![CDATA[Economia]]></category>
+<guid isPermaLink="false"><![CDATA[https://g1.globo.com/economia/noticia/2026/01/05/tcu-confirma-autorizacao-de-inspecao-no-bc-sobre-liquidacao-do-master.ghtml]]></guid>
+<description><![CDATA[O Tribunal de Contas da União determinou a realização de uma inspeção no Banco Central para analisar documentos relacionados à liquidação extrajudicial do Banco Master.]]></description>
+<content:encoded><![CDATA[
+<p>A inspeção tem como objetivo verificar as provas documentais apresentadas pela autoridade monetária em resposta aos questionamentos sobre o processo de liquidação do Banco Master.</p>
+<p>Serão analisados aspectos como a evolução dos alertas, as medidas de supervisão adotadas diante da deterioração da instituição e o tratamento dado a alternativas de mercado e à possibilidade de uma saída organizada.</p>
+<p>O Tribunal de Contas da União exerce o controle externo da administração pública federal, incluindo a fiscalização contábil, financeira, orçamentária, operacional e patrimonial de órgãos e entidades, como o Banco Central.</p>
+<p>Essa fiscalização abrange a verificação da legalidade, legitimidade e economicidade dos atos de gestão pública, respeitando a autonomia técnica e decisória do Banco Central.</p>
 ]]></content:encoded>
 </item>
 </channel></rss>
