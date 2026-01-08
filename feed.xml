@@ -8,22 +8,38 @@
 <atom:link href="https://evwbr.github.io/economia/feed.xml" rel="self" type="application/rss+xml"/>
 <link>https://evwbr.github.io/economia/</link>
 <description>Economia reescrita com IA - Evo Web News</description>
-<lastBuildDate>Thu, 08 Jan 2026 11:45:12 GMT</lastBuildDate>
+<lastBuildDate>Thu, 08 Jan 2026 12:45:16 GMT</lastBuildDate>
 <language>pt-BR</language>
 <item>
-<title><![CDATA[Irlanda anuncia voto contra acordo comercial entre União Europeia e Mercosul]]></title>
-<link>https://g1.globo.com/economia/noticia/2026/01/08/irlanda-votara-contra-o-acordo-comercial-ue-mercosul.ghtml</link>
+<title><![CDATA[FedEx anuncia encerramento gradual do transporte doméstico no Brasil]]></title>
+<link>https://g1.globo.com/economia/negocios/noticia/2026/01/08/fedex-encerramento-transporte-domestico-no-brasil.ghtml</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Thu, 08 Jan 2026 11:29:34 GMT</pubDate>
+<pubDate>Thu, 08 Jan 2026 12:14:12 GMT</pubDate>
 <category><![CDATA[Economia]]></category>
-<guid isPermaLink="false"><![CDATA[https://g1.globo.com/economia/noticia/2026/01/08/irlanda-votara-contra-o-acordo-comercial-ue-mercosul.ghtml]]></guid>
-<description><![CDATA[A Irlanda comunicou sua decisão de votar contra o acordo comercial entre a União Europeia e o Mercosul, alinhando-se a outros países que manifestam resistência ao tratado.]]></description>
+<guid isPermaLink="false"><![CDATA[https://g1.globo.com/economia/negocios/noticia/2026/01/08/fedex-encerramento-transporte-domestico-no-brasil.ghtml]]></guid>
+<description><![CDATA[A FedEx comunicou que encerrará suas operações de transporte doméstico no Brasil, mantendo apenas os serviços internacionais e de supply chain no país.]]></description>
 <content:encoded><![CDATA[
-<p>O vice-primeiro-ministro irlandês declarou que o governo não apoia o acordo na forma apresentada e confirmou o voto contrário na votação prevista para sexta-feira no Conselho da União Europeia.</p>
-<p>O tratado, negociado desde 1999, visa criar a maior área de livre comércio do mundo, envolvendo Argentina, Brasil, Uruguai e Paraguai, e sua assinatura está prevista para ocorrer na segunda-feira.</p>
-<p>Apesar da oposição de Irlanda, França, Hungria e Polônia, a Comissão Europeia pode obter a maioria necessária para aprovar o acordo, o que permitiria à presidente da Comissão Europeia proceder com a assinatura.</p>
-<p>O setor agrícola europeu expressa preocupações quanto ao impacto do aumento das importações de produtos sul-americanos, como carne, arroz, mel e soja, em troca da exportação de veículos e máquinas europeias para o Mercosul.</p>
-<p>A Irlanda criticou as medidas adicionais negociadas pela Comissão Europeia, considerando-as insuficientes para atender às expectativas da população do país.</p>
+<p>O processo de descontinuação do transporte doméstico será gradual, com coletas nacionais mantidas até 6 de fevereiro de 2026 e entrega das encomendas já contratadas dentro dos prazos estabelecidos.</p>
+<p>Durante o período de transição, a empresa continuará oferecendo suporte operacional e atendimento aos clientes, enquanto realiza a desmobilização das estruturas operacionais relacionadas ao transporte doméstico.</p>
+<p>A reorganização dos ativos logísticos utilizados nessas atividades está prevista para se estender até junho, quando as operações domésticas serão completamente encerradas.</p>
+<p>A FedEx manterá suas operações no Brasil focadas no transporte internacional, tanto aéreo quanto rodoviário, além dos serviços de supply chain, incluindo as máquinas de cartão de crédito (POS).</p>
+<p>A companhia reafirma o compromisso com o cumprimento das obrigações contratuais e a prestação de serviços confiáveis, seguros e eficientes para clientes no Brasil e no mercado global.</p>
+]]></content:encoded>
+</item>
+<item>
+<title><![CDATA[Dólar abre em alta com atenção a indicadores econômicos no Brasil e no exterior]]></title>
+<link>https://g1.globo.com/economia/noticia/2026/01/08/dolar-ibovespa.ghtml</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Thu, 08 Jan 2026 12:00:11 GMT</pubDate>
+<category><![CDATA[Economia]]></category>
+<guid isPermaLink="false"><![CDATA[https://g1.globo.com/economia/noticia/2026/01/08/dolar-ibovespa.ghtml]]></guid>
+<description><![CDATA[O dólar iniciou a sessão em alta, enquanto o Ibovespa aguarda abertura, com os mercados monitorando dados econômicos locais e internacionais, além de desdobramentos geopolíticos.]]></description>
+<content:encoded><![CDATA[
+<p>O dólar apresentou valorização no início da sessão, acompanhando uma agenda econômica movimentada que inclui dados de atividade industrial e inflação no Brasil, além de informações sobre o mercado de trabalho e comércio exterior dos Estados Unidos.</p>
+<p>Nos Estados Unidos, os investidores aguardam indicadores relacionados ao emprego e à balança comercial, que contribuem para a avaliação do cenário econômico americano.</p>
+<p>No Brasil, os dados da produção industrial de novembro são esperados, com atenção às variações mensais e acumuladas do setor.</p>
+<p>No âmbito internacional, a relação entre Estados Unidos e Venezuela segue em destaque, com a retomada das vendas de petróleo venezuelano aos EUA e o impacto das recentes ações militares na região.</p>
+<p>Os mercados globais apresentaram desempenho misto, com bolsas americanas fechando sem direção única e índices europeus registrando variações modestas, influenciados por dados de inflação e outros indicadores econômicos.</p>
 ]]></content:encoded>
 </item>
 </channel></rss>
