@@ -8,23 +8,22 @@
 <atom:link href="https://evwbr.github.io/economia/feed.xml" rel="self" type="application/rss+xml"/>
 <link>https://evwbr.github.io/economia/</link>
 <description>Economia reescrita com IA - Evo Web News</description>
-<lastBuildDate>Sat, 31 Jan 2026 00:32:08 GMT</lastBuildDate>
+<lastBuildDate>Sat, 31 Jan 2026 11:32:04 GMT</lastBuildDate>
 <language>pt-BR</language>
 <item>
-<title><![CDATA[Banco Central reforça regras para provedores de tecnologia financeira]]></title>
-<link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/bc-aperta-regras-de-provedores-de-ti-para-instituicoes-financeiras</link>
+<title><![CDATA[Prazo final para adesão ao Simples Nacional é neste sábado]]></title>
+<link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/prazo-para-aderir-ao-simples-nacional-termina-neste-sabado</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Fri, 30 Jan 2026 23:34:00 GMT</pubDate>
+<pubDate>Sat, 31 Jan 2026 10:32:00 GMT</pubDate>
 <category><![CDATA[Economia]]></category>
-<guid isPermaLink="false"><![CDATA[1676626 at https://agenciabrasil.ebc.com.br]]></guid>
-<description><![CDATA[O Banco Central atualizou a regulamentação dos Provedores de Serviços de Tecnologia da Informação no sistema financeiro, tornando o credenciamento mais rigoroso. As mudanças visam fortalecer a segurança e a transparência no setor, alinhando as exigências a outros segmentos regulados.]]></description>
+<guid isPermaLink="false"><![CDATA[1676092 at https://agenciabrasil.ebc.com.br]]></guid>
+<description><![CDATA[Empreendedores têm até este sábado, dia 31, para solicitar a adesão ou o retorno ao Simples Nacional. O regime simplificado é destinado a microempreendedores individuais, microempresas e empresas de pequeno porte.]]></description>
 <content:encoded><![CDATA[
-<p>O Banco Central atualizou a regulamentação dos Provedores de Serviços de Tecnologia da Informação no sistema financeiro, tornando o credenciamento mais rigoroso. As mudanças visam fortalecer a segurança e a transparência no setor, alinhando as exigências a outros segmentos regulados.</p>
-<p>As novas regras permitem que o Banco Central exija valores maiores de capital social e patrimônio líquido dos provedores a qualquer momento, reforçando a capacidade financeira dessas empresas. Também foram ajustados os critérios de reputação e capacidade técnica dos administradores, além de incluir definições sobre controle acionário e mecanismos de análise de conformidade.</p>
-<p>A norma reforça ainda as exigências de governança corporativa, controles internos e compliance, com a obrigação de elaboração anual de relatórios e adoção de mecanismos de rastreabilidade. O processo de descredenciamento foi simplificado para ser mais objetivo e ágil em casos de descumprimento das regras.</p>
-<p>As obrigações de comunicação ao Banco Central foram ampliadas, incluindo informações sobre alterações societárias e substituição de administradores. Novas hipóteses autorizam a adoção de medidas cautelares, como em situações de ausência prolongada de diretor responsável. O prazo para adaptação das mudanças foi ampliado para oito meses, permitindo uma transição mais segura.</p>
-<p>As atualizações ocorrem após ataques cibernéticos a prestadores de serviços terceirizados, que são considerados elos vulneráveis na cadeia tecnológica do sistema financeiro. O Banco Central mantém o limite de R$ 15 mil por transação via Pix e TED durante o período de adequação, reforçando a segurança diante do crescimento do Pix como principal meio de pagamento.</p>
-<p>O Banco Central destaca que as medidas fortalecem a estabilidade e a segurança do sistema financeiro e de pagamentos no Brasil.</p>
+<p>Empreendedores têm até este sábado, dia 31, para solicitar a adesão ou o retorno ao Simples Nacional. O regime simplificado é destinado a microempreendedores individuais, microempresas e empresas de pequeno porte.</p>
+<p>O pedido para optar pelo Simples Nacional deve ser feito exclusivamente pela internet, com acesso via certificado digital ou código de acesso. Após a solicitação, o sistema verifica automaticamente pendências junto à Receita Federal, estados e municípios, aprovando a opção caso não haja irregularidades.</p>
+<p>Empresas excluídas do regime por motivos como débitos tributários, excesso de faturamento ou falta de documentos podem retornar se regularizarem todas as pendências até 31 de janeiro e fizerem novo pedido. O retorno tem efeito retroativo a 1º de janeiro, desde que aprovado.</p>
+<p>Microempreendedores individuais excluídos também têm até o dia 31 para regularizar débitos e solicitar o reenquadramento. O processo depende da aprovação prévia no Simples Nacional, com acompanhamento recomendado para resolver eventuais pendências dentro do prazo.</p>
+<p>Quem perder o prazo só poderá pedir nova adesão em janeiro de 2027, precisando migrar para outros regimes tributários, como Lucro Presumido ou Lucro Real, durante esse período.</p>
 ]]></content:encoded>
 </item>
 </channel></rss>
