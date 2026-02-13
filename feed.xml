@@ -8,22 +8,23 @@
 <atom:link href="https://evwbr.github.io/economia/feed.xml" rel="self" type="application/rss+xml"/>
 <link>https://evwbr.github.io/economia/</link>
 <description>Economia reescrita com IA - Evo Web News</description>
-<lastBuildDate>Fri, 13 Feb 2026 17:32:07 GMT</lastBuildDate>
+<lastBuildDate>Fri, 13 Feb 2026 22:32:04 GMT</lastBuildDate>
 <language>pt-BR</language>
 <item>
-<title><![CDATA[Cresce 45% número de ambulantes formalizados como MEI em 2025]]></title>
-<link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-02/ambulantes-que-se-formalizaram-como-mei-crescem-45-em-2-anos</link>
+<title><![CDATA[Banco Central revela vazamento de dados Pix no Agibank]]></title>
+<link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-02/bc-registra-primeiro-incidente-com-chaves-pix-em-2026</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Fri, 13 Feb 2026 16:44:00 GMT</pubDate>
+<pubDate>Fri, 13 Feb 2026 21:44:00 GMT</pubDate>
 <category><![CDATA[Economia]]></category>
-<guid isPermaLink="false"><![CDATA[1678147 at https://agenciabrasil.ebc.com.br]]></guid>
-<description><![CDATA[O número de ambulantes formalizados como Microempreendedores Individuais (MEI) cresceu 45% em 2025 em relação a 2023, alcançando mais de 56 mil profissionais. O aumento reflete uma maior formalização desses trabalhadores que atuam nas ruas, com destaque para estados como São Paulo, Rio de Janeiro e Bahia.]]></description>
+<guid isPermaLink="false"><![CDATA[1678173 at https://agenciabrasil.ebc.com.br]]></guid>
+<description><![CDATA[O Banco Central informou que 5.290 chaves Pix do Banco Agibank tiveram dados expostos devido a falhas em sistemas da instituição. Este é o 21º incidente envolvendo dados do Pix desde o lançamento do sistema em novembro de 2020 e o primeiro registrado em 2026.]]></description>
 <content:encoded><![CDATA[
-<p>O número de ambulantes formalizados como Microempreendedores Individuais (MEI) cresceu 45% em 2025 em relação a 2023, alcançando mais de 56 mil profissionais. O aumento reflete uma maior formalização desses trabalhadores que atuam nas ruas, com destaque para estados como São Paulo, Rio de Janeiro e Bahia.</p>
-<p>Em 2025, mais de 56 mil ambulantes se registraram como MEI, contra 38 mil em 2023 e 42 mil em 2024. A formalização cresceu significativamente em estados como São Paulo, que teve 16 mil ambulantes formalizados, um aumento de 43% em relação a 2023. No Rio de Janeiro, o crescimento foi de 54%, com 6,5 mil formalizações, e na Bahia, 2,9 mil ambulantes se tornaram MEI, um aumento de 39%.</p>
-<p>A formalização desses profissionais é considerada essencial para o carnaval, que deve movimentar cerca de 18,6 bilhões de reais em 2025. A festa popular é apontada como um grande espaço de geração de renda, principalmente para pequenos negócios, incluindo micro e pequenas empresas que atuam em segmentos como moda, economia, alimentos e bebidas, especialmente no circuito Barra-Ondina, em Salvador.</p>
-<p>O Microempreendedor Individual é a forma mais simples de formalização profissional, permitindo a obtenção de um CNPJ. O MEI pode faturar até 81 mil reais por ano e contratar até um funcionário para auxiliar nas atividades. A expectativa é que mais de 1,2 milhão de turistas visitem Salvador durante o carnaval, movimentando mais de 1,8 bilhão de reais na capital baiana.</p>
-<p>A formalização crescente dos ambulantes como MEI reforça a importância dos pequenos negócios na economia durante o carnaval e além.</p>
+<p>O Banco Central informou que 5.290 chaves Pix do Banco Agibank tiveram dados expostos devido a falhas em sistemas da instituição. Este é o 21º incidente envolvendo dados do Pix desde o lançamento do sistema em novembro de 2020 e o primeiro registrado em 2026.</p>
+<p>O vazamento afetou dados cadastrais, como agência, número e tipo da conta, mas não comprometeu informações protegidas pelo sigilo bancário, como saldos, senhas e extratos. O Banco Central destacou que o incidente não impacta a movimentação financeira dos clientes e que a divulgação foi feita em compromisso com a transparência, apesar do baixo impacto potencial.</p>
+<p>As pessoas afetadas serão notificadas exclusivamente pelo aplicativo ou internet banking do Agibank. O Banco Central alertou para que os clientes desconsiderem comunicações por telefone, SMS, e-mail ou aplicativos de mensagens, que não são meios oficiais de aviso sobre o incidente.</p>
+<p>A exposição indica que os dados ficaram visíveis para terceiros e podem ter sido capturados, o que configura uma consulta não autorizada. O Banco Central informou que investigará o caso e poderá aplicar sanções que incluem multa, suspensão ou exclusão do Agibank do sistema Pix.</p>
+<p>Desde o lançamento do Pix, todos os 21 incidentes registrados envolveram apenas dados cadastrais, sem vazamento de senhas ou saldos bancários. A autoridade monetária mantém uma página para acompanhamento dos incidentes relacionados a dados pessoais e chaves Pix.</p>
+<p>O Banco Central segue monitorando a situação e orienta os clientes a permanecerem atentos às comunicações oficiais para garantir a segurança dos dados.</p>
 ]]></content:encoded>
 </item>
 </channel></rss>
