@@ -8,23 +8,23 @@
 <atom:link href="https://evwbr.github.io/economia/feed.xml" rel="self" type="application/rss+xml"/>
 <link>https://evwbr.github.io/economia/</link>
 <description>Economia reescrita com IA - Evo Web News</description>
-<lastBuildDate>Fri, 13 Feb 2026 22:32:04 GMT</lastBuildDate>
+<lastBuildDate>Fri, 13 Feb 2026 23:32:01 GMT</lastBuildDate>
 <language>pt-BR</language>
 <item>
-<title><![CDATA[Banco Central revela vazamento de dados Pix no Agibank]]></title>
-<link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-02/bc-registra-primeiro-incidente-com-chaves-pix-em-2026</link>
+<title><![CDATA[Dólar supera R$ 5,20 e bolsa recua em ajustes pré-carnaval]]></title>
+<link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-02/dolar-sobe-para-r-522-em-dia-de-turbulencia-internacional</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Fri, 13 Feb 2026 21:44:00 GMT</pubDate>
+<pubDate>Fri, 13 Feb 2026 22:55:00 GMT</pubDate>
 <category><![CDATA[Economia]]></category>
-<guid isPermaLink="false"><![CDATA[1678173 at https://agenciabrasil.ebc.com.br]]></guid>
-<description><![CDATA[O Banco Central informou que 5.290 chaves Pix do Banco Agibank tiveram dados expostos devido a falhas em sistemas da instituição. Este é o 21º incidente envolvendo dados do Pix desde o lançamento do sistema em novembro de 2020 e o primeiro registrado em 2026.]]></description>
+<guid isPermaLink="false"><![CDATA[1678179 at https://agenciabrasil.ebc.com.br]]></guid>
+<description><![CDATA[O dólar comercial fechou a sexta-feira vendido a R$ 5,229, registrando alta de 0,57% em meio a turbulências no mercado externo. A bolsa de valores também recuou, com o índice Ibovespa caindo 0,69%, refletindo ajustes e preocupações globais.]]></description>
 <content:encoded><![CDATA[
-<p>O Banco Central informou que 5.290 chaves Pix do Banco Agibank tiveram dados expostos devido a falhas em sistemas da instituição. Este é o 21º incidente envolvendo dados do Pix desde o lançamento do sistema em novembro de 2020 e o primeiro registrado em 2026.</p>
-<p>O vazamento afetou dados cadastrais, como agência, número e tipo da conta, mas não comprometeu informações protegidas pelo sigilo bancário, como saldos, senhas e extratos. O Banco Central destacou que o incidente não impacta a movimentação financeira dos clientes e que a divulgação foi feita em compromisso com a transparência, apesar do baixo impacto potencial.</p>
-<p>As pessoas afetadas serão notificadas exclusivamente pelo aplicativo ou internet banking do Agibank. O Banco Central alertou para que os clientes desconsiderem comunicações por telefone, SMS, e-mail ou aplicativos de mensagens, que não são meios oficiais de aviso sobre o incidente.</p>
-<p>A exposição indica que os dados ficaram visíveis para terceiros e podem ter sido capturados, o que configura uma consulta não autorizada. O Banco Central informou que investigará o caso e poderá aplicar sanções que incluem multa, suspensão ou exclusão do Agibank do sistema Pix.</p>
-<p>Desde o lançamento do Pix, todos os 21 incidentes registrados envolveram apenas dados cadastrais, sem vazamento de senhas ou saldos bancários. A autoridade monetária mantém uma página para acompanhamento dos incidentes relacionados a dados pessoais e chaves Pix.</p>
-<p>O Banco Central segue monitorando a situação e orienta os clientes a permanecerem atentos às comunicações oficiais para garantir a segurança dos dados.</p>
+<p>O dólar comercial fechou a sexta-feira vendido a R$ 5,229, registrando alta de 0,57% em meio a turbulências no mercado externo. A bolsa de valores também recuou, com o índice Ibovespa caindo 0,69%, refletindo ajustes e preocupações globais.</p>
+<p>Durante a sessão, o dólar chegou a atingir R$ 5,25 por volta do meio-dia, mas desacelerou à tarde com a redução das tensões nos Estados Unidos. Apesar da alta nos últimos dois dias, a divisa subiu apenas 0,18% na semana e acumula queda de 4,72% em 2026.</p>
+<p>No mercado de ações, o Ibovespa fechou aos 186.464 pontos, com queda de 0,69%. O índice chegou a cair 1,99% no início da tarde, mas recuperou parte das perdas influenciado pela alta do petróleo e pela melhora nas bolsas americanas.</p>
+<p>A inflação ao consumidor nos Estados Unidos ficou em 0,2% em fevereiro, mas isso não foi suficiente para melhorar o humor dos investidores. A criação de empregos acima do previsto reduz as chances de cortes nos juros pelo Federal Reserve nos próximos meses.</p>
+<p>Preocupações com uma possível bolha no setor de inteligência artificial continuam a impactar negativamente o mercado financeiro, com o índice Nasdaq caindo 0,22%. Internamente, investidores realizaram lucros aproveitando a queda recente do dólar e a sequência de recordes na bolsa.</p>
+<p>O mercado segue atento às influências internacionais e internas, com investidores ajustando posições antes do carnaval.</p>
 ]]></content:encoded>
 </item>
 </channel></rss>
