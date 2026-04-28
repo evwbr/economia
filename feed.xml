@@ -8,40 +8,39 @@
 <atom:link href="https://evwbr.github.io/economia/feed.xml" rel="self" type="application/rss+xml"/>
 <link>https://evwbr.github.io/economia/</link>
 <description>Economia reescrita com IA - Evo Web News</description>
-<lastBuildDate>Tue, 28 Apr 2026 15:00:21 GMT</lastBuildDate>
+<lastBuildDate>Tue, 28 Apr 2026 19:00:17 GMT</lastBuildDate>
 <language>pt-BR</language>
 <item>
-<title><![CDATA[Inflação em abril sobe para 0,89% com alta nos alimentos e combustíveis]]></title>
-<link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-04/gasolina-e-alimentos-pressionam-e-previa-da-inflacao-sobe-para-089</link>
+<title><![CDATA[Banco do Brasil lança boleto com Pix automático para contas recorrentes]]></title>
+<link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-04/bb-lanca-boleto-com-pix-automatico-para-pagamentos-recorrentes</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Tue, 28 Apr 2026 13:52:00 GMT</pubDate>
+<pubDate>Tue, 28 Apr 2026 18:33:00 GMT</pubDate>
 <category><![CDATA[Economia]]></category>
-<guid isPermaLink="false"><![CDATA[1687498 at https://agenciabrasil.ebc.com.br]]></guid>
-<description><![CDATA[A prévia da inflação em abril registrou alta de 0,89%, pressionada principalmente pelos preços dos alimentos e combustíveis. Esse resultado é o maior desde fevereiro e quase o dobro do apurado em abril do ano anterior.]]></description>
+<guid isPermaLink="false"><![CDATA[1687527 at https://agenciabrasil.ebc.com.br]]></guid>
+<description><![CDATA[O Banco do Brasil anunciou uma nova ferramenta que permite o pagamento automático de boletos mensais, como contas de luz e mensalidades, após uma única autorização do cliente. A novidade visa simplificar o processo de pagamento e reduzir atrasos tanto para consumidores quanto para empresas.]]></description>
 <content:encoded><![CDATA[
-<p>A prévia da inflação em abril registrou alta de 0,89%, pressionada principalmente pelos preços dos alimentos e combustíveis. Esse resultado é o maior desde fevereiro e quase o dobro do apurado em abril do ano anterior.</p>
-<p>O Índice Nacional de Preços ao Consumidor Amplo 15 (IPCA-15), que é a prévia da inflação oficial, acumulou 4,37% em 12 meses até abril, acima dos 3,9% registrados nos 12 meses terminados em março. A alta de abril foi influenciada por nove grupos de produtos e serviços pesquisados, com alimentação e bebidas e transportes apresentando os maiores impactos.</p>
-<p>No grupo alimentação e bebidas, a inflação foi de 1,46%, com destaque para a alimentação no domicílio, que subiu 1,77%. Produtos como cenoura, cebola, leite longa vida, tomate e carnes tiveram aumentos expressivos. A alimentação fora do domicílio também acelerou, registrando alta de 0,70%.</p>
-<p>No setor de transportes, o aumento de 1,34% foi puxado pela alta de 6,06% nos combustíveis. A gasolina subiu 6,23% e o óleo diesel 16%, o que impactou diretamente o IPCA-15. A guerra no Oriente Médio, especialmente os conflitos envolvendo o Irã, tem afetado a produção e o transporte de petróleo, elevando os preços internacionais e, consequentemente, os preços domésticos.</p>
-<p>O governo brasileiro tem adotado medidas para conter a alta dos derivados de petróleo, como a isenção de impostos e subsídios a produtores e importadores. Apesar dessas ações, o efeito sobre a economia doméstica ainda é considerado pequeno, mas relevante para tentar amenizar os impactos da guerra no preço dos combustíveis.</p>
-<p>O IPCA-15 de abril indica que a inflação permanece dentro da margem de tolerância da meta oficial, refletindo a influência dos preços dos alimentos e combustíveis.</p>
+<p>O Banco do Brasil anunciou uma nova ferramenta que permite o pagamento automático de boletos mensais, como contas de luz e mensalidades, após uma única autorização do cliente. A novidade visa simplificar o processo de pagamento e reduzir atrasos tanto para consumidores quanto para empresas.</p>
+<p>A ferramenta funciona de forma simples: ao pagar um boleto com Código QR via Pix, o cliente autoriza que os próximos pagamentos sejam feitos automaticamente. Os boletos futuros são agendados, e o valor é debitado na data de vencimento, eliminando a necessidade de repetir o pagamento mensalmente.</p>
+<p>Não é necessário ter conta no Banco do Brasil para utilizar o serviço, já que a autorização pode ser feita por usuários de qualquer instituição financeira. Para o consumidor, a principal vantagem é a praticidade, pois o processo acontece em uma única etapa e reduz o risco de esquecer pagamentos, mantendo o controle com o cliente.</p>
+<p>Para as empresas, a novidade facilita a conciliação financeira e ajuda a diminuir a inadimplência, aumentando a previsibilidade de caixa ao reduzir atrasos e esquecimentos. A primeira empresa a adotar o modelo é a Equatorial Energia, que oferece a opção para clientes em estados como Maranhão, Pará, Piauí, Alagoas e Amapá.</p>
+<p>O recurso está inicialmente disponível para empresas que utilizam a API de cobrança do Banco do Brasil, que integra sistemas de pagamento. A expectativa é que a solução seja expandida para outras regiões e empresas nos próximos meses, unindo o boleto bancário e o Pix para criar uma alternativa mais simples e eficiente.</p>
+<p>A nova ferramenta promete transformar o pagamento de contas recorrentes, trazendo mais comodidade para consumidores e maior eficiência para empresas.</p>
 ]]></content:encoded>
 </item>
 <item>
-<title><![CDATA[Redução da jornada de trabalho gera debates sobre impactos econômicos]]></title>
-<link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-04/fim-da-escala-6-1-estudos-divergem-sobre-impactos-no-pib-e-inflacao</link>
+<title><![CDATA[Redução da jornada 6x1 estimula empreendedorismo e economia]]></title>
+<link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-04/reducao-da-jornada-vai-favorecer-o-empreendodorismo-diz-ministro</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Tue, 28 Apr 2026 12:27:00 GMT</pubDate>
+<pubDate>Tue, 28 Apr 2026 16:14:00 GMT</pubDate>
 <category><![CDATA[Economia]]></category>
-<guid isPermaLink="false"><![CDATA[1687442 at https://agenciabrasil.ebc.com.br]]></guid>
-<description><![CDATA[Propostas para reduzir a jornada de trabalho no Brasil, em análise no Congresso Nacional, dividem opiniões sobre seus efeitos na economia. Enquanto entidades patronais preveem queda no PIB e aumento da inflação, estudos de universidades apontam para impactos limitados e potencial geração de empregos.]]></description>
+<guid isPermaLink="false"><![CDATA[1687518 at https://agenciabrasil.ebc.com.br]]></guid>
+<description><![CDATA[A proposta de reduzir a jornada de trabalho de seis dias por um de descanso pode melhorar a qualidade de vida e impulsionar o empreendedorismo no Brasil. O governo acredita que essa mudança criará mais tempo livre, autonomia e oportunidades para novos negócios, especialmente para trabalhadores de menor renda.]]></description>
 <content:encoded><![CDATA[
-<p>Propostas para reduzir a jornada de trabalho no Brasil, em análise no Congresso Nacional, dividem opiniões sobre seus efeitos na economia. Enquanto entidades patronais preveem queda no PIB e aumento da inflação, estudos de universidades apontam para impactos limitados e potencial geração de empregos.</p>
-<p>As propostas de reduzir a jornada de trabalho, acabando com a escala 6x1, têm mobilizado diferentes setores para avaliar os possíveis efeitos econômicos. Entidades que representam o empresariado projetam uma queda significativa no Produto Interno Bruto e uma alta da inflação, especialmente na indústria, que poderia ter redução de 1,2% no PIB.</p>
-<p>Por outro lado, análises da Universidade Estadual de Campinas e do Instituto de Pesquisa Econômica Aplicada indicam que os impactos podem ser restritos a alguns setores, com a criação de mais empregos e até aumento do PIB. A economista Marilane Teixeira destaca que o debate não é apenas técnico, mas político, e que modelos tradicionais podem ignorar ajustes dinâmicos do mercado de trabalho.</p>
-<p>A Confederação Nacional da Indústria calcula uma perda de 76 bilhões de reais no PIB com a redução da jornada de 44 para 40 horas semanais, enquanto a Confederação Nacional do Comércio alerta para aumento de 21% nos custos da folha salarial e repasse de preços ao consumidor de até 13%. A resistência dos empregadores pode levar a projeções alarmistas.</p>
-<p>Marilane Teixeira ressalta que a visão dos empregadores é focada em seus negócios, sem considerar os benefícios para a sociedade como um todo. Ela acredita que a redução da jornada pode trazer vantagens mais amplas, apesar das preocupações econômicas levantadas pelas entidades patronais.</p>
-<p>O debate sobre a redução da jornada de trabalho segue em pauta, com análises que destacam tanto riscos quanto oportunidades para a economia brasileira.</p>
+<p>A proposta de reduzir a jornada de trabalho de seis dias por um de descanso pode melhorar a qualidade de vida e impulsionar o empreendedorismo no Brasil. O governo acredita que essa mudança criará mais tempo livre, autonomia e oportunidades para novos negócios, especialmente para trabalhadores de menor renda.</p>
+<p>A redução da escala 6x1 é vista como positiva para a economia, pois oferece mais tempo livre para as pessoas consumirem e empreenderem. O ministro Paulo Pereira destacou que o espírito da autonomia e liberdade de escolha sobre o uso do tempo é fundamental para estimular o empreendedorismo, permitindo que trabalhadores busquem renda extra ou se preparem para mudanças de carreira.</p>
+<p>O impacto da medida será especialmente benéfico para os trabalhadores de menor renda, que enfrentam mais dificuldades. O ministro ressaltou que críticas à redução da jornada costumam repetir discursos históricos contrários a avanços trabalhistas, como o salário mínimo e as férias, e que o temor de que a economia seja prejudicada não se concretizou no passado.</p>
+<p>O governo está atento para adotar medidas que amenizem eventuais impactos negativos da mudança, caso necessário. Entre 10% e 15% dos empreendedores, cerca de quatro a cinco milhões de pessoas, podem sentir algum efeito, mas o governo pretende criar mecanismos, como benefícios fiscais e apoio financeiro, para garantir que ninguém fique desamparado.</p>
+<p>A iniciativa busca promover mais equilíbrio entre trabalho e vida pessoal, fortalecendo a economia e o empreendedorismo em todo o país.</p>
 ]]></content:encoded>
 </item>
 </channel></rss>
