@@ -8,39 +8,74 @@
 <atom:link href="https://evwbr.github.io/economia/feed.xml" rel="self" type="application/rss+xml"/>
 <link>https://evwbr.github.io/economia/</link>
 <description>Economia reescrita com IA - Evo Web News</description>
-<lastBuildDate>Tue, 28 Apr 2026 19:00:17 GMT</lastBuildDate>
+<lastBuildDate>Tue, 28 Apr 2026 23:00:41 GMT</lastBuildDate>
 <language>pt-BR</language>
 <item>
-<title><![CDATA[Banco do Brasil lança boleto com Pix automático para contas recorrentes]]></title>
-<link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-04/bb-lanca-boleto-com-pix-automatico-para-pagamentos-recorrentes</link>
+<title><![CDATA[Governo abre crédito para subsidiar gás de cozinha importado]]></title>
+<link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-04/governo-libera-r-330-milhoes-para-segurar-preco-do-gas-de-cozinha</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Tue, 28 Apr 2026 18:33:00 GMT</pubDate>
+<pubDate>Tue, 28 Apr 2026 22:29:00 GMT</pubDate>
 <category><![CDATA[Economia]]></category>
-<guid isPermaLink="false"><![CDATA[1687527 at https://agenciabrasil.ebc.com.br]]></guid>
-<description><![CDATA[O Banco do Brasil anunciou uma nova ferramenta que permite o pagamento automático de boletos mensais, como contas de luz e mensalidades, após uma única autorização do cliente. A novidade visa simplificar o processo de pagamento e reduzir atrasos tanto para consumidores quanto para empresas.]]></description>
+<guid isPermaLink="false"><![CDATA[1687575 at https://agenciabrasil.ebc.com.br]]></guid>
+<description><![CDATA[Uma medida provisória liberou R$ 330 milhões para subsidiar a importação de gás de cozinha, buscando conter a alta dos preços provocada pelo cenário internacional. O objetivo é garantir que o gás importado seja vendido pelo mesmo preço do produto nacional, evitando repasses elevados ao consumidor final.]]></description>
 <content:encoded><![CDATA[
-<p>O Banco do Brasil anunciou uma nova ferramenta que permite o pagamento automático de boletos mensais, como contas de luz e mensalidades, após uma única autorização do cliente. A novidade visa simplificar o processo de pagamento e reduzir atrasos tanto para consumidores quanto para empresas.</p>
-<p>A ferramenta funciona de forma simples: ao pagar um boleto com Código QR via Pix, o cliente autoriza que os próximos pagamentos sejam feitos automaticamente. Os boletos futuros são agendados, e o valor é debitado na data de vencimento, eliminando a necessidade de repetir o pagamento mensalmente.</p>
-<p>Não é necessário ter conta no Banco do Brasil para utilizar o serviço, já que a autorização pode ser feita por usuários de qualquer instituição financeira. Para o consumidor, a principal vantagem é a praticidade, pois o processo acontece em uma única etapa e reduz o risco de esquecer pagamentos, mantendo o controle com o cliente.</p>
-<p>Para as empresas, a novidade facilita a conciliação financeira e ajuda a diminuir a inadimplência, aumentando a previsibilidade de caixa ao reduzir atrasos e esquecimentos. A primeira empresa a adotar o modelo é a Equatorial Energia, que oferece a opção para clientes em estados como Maranhão, Pará, Piauí, Alagoas e Amapá.</p>
-<p>O recurso está inicialmente disponível para empresas que utilizam a API de cobrança do Banco do Brasil, que integra sistemas de pagamento. A expectativa é que a solução seja expandida para outras regiões e empresas nos próximos meses, unindo o boleto bancário e o Pix para criar uma alternativa mais simples e eficiente.</p>
-<p>A nova ferramenta promete transformar o pagamento de contas recorrentes, trazendo mais comodidade para consumidores e maior eficiência para empresas.</p>
+<p>Uma medida provisória liberou R$ 330 milhões para subsidiar a importação de gás de cozinha, buscando conter a alta dos preços provocada pelo cenário internacional. O objetivo é garantir que o gás importado seja vendido pelo mesmo preço do produto nacional, evitando repasses elevados ao consumidor final.</p>
+<p>O crédito extraordinário será utilizado para cobrir parte do custo da importação do gás liquefeito de petróleo (GLP), funcionando como uma compensação para que as distribuidoras não repassem integralmente o aumento dos preços. A subvenção vale inicialmente de 1º de abril a 31 de maio, com possibilidade de prorrogação por mais dois meses, dependendo da evolução dos preços no mercado internacional.</p>
+<p>A medida faz parte de um pacote anunciado no início de abril para conter os impactos da guerra no Oriente Médio sobre os combustíveis. O conflito elevou o preço do petróleo no mercado internacional, pressionando diretamente o custo do gás e do transporte, o que contribuiu para a alta recente do GLP.</p>
+<p>O Brasil importa cerca de 20% do gás de cozinha consumido no país, o que torna o produto sensível a variações externas, como o preço do petróleo e custos logísticos. Além da guerra, o governo destaca o encarecimento do transporte de cargas e a valorização dos preços internacionais do gás como fatores que influenciam o aumento dos valores.</p>
+<p>A medida provisória também está conectada a programas sociais já existentes que apoiam a compra de gás por famílias de baixa renda, podendo influenciar o valor de referência usado nesses benefícios. Com essa iniciativa, o governo busca reduzir a volatilidade dos preços e evitar que oscilações externas impactem diretamente o custo de vida da população.</p>
+<p>O governo mantém o compromisso de acompanhar o mercado para ajustar as medidas.</p>
 ]]></content:encoded>
 </item>
 <item>
-<title><![CDATA[Redução da jornada 6x1 estimula empreendedorismo e economia]]></title>
-<link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-04/reducao-da-jornada-vai-favorecer-o-empreendodorismo-diz-ministro</link>
+<title><![CDATA[Arrecadação federal de impostos bate recorde em março]]></title>
+<link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-04/arrecadacao-federal-bate-recorde-com-r-2292-bilhoes-em-marco</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Tue, 28 Apr 2026 16:14:00 GMT</pubDate>
+<pubDate>Tue, 28 Apr 2026 21:19:00 GMT</pubDate>
 <category><![CDATA[Economia]]></category>
-<guid isPermaLink="false"><![CDATA[1687518 at https://agenciabrasil.ebc.com.br]]></guid>
-<description><![CDATA[A proposta de reduzir a jornada de trabalho de seis dias por um de descanso pode melhorar a qualidade de vida e impulsionar o empreendedorismo no Brasil. O governo acredita que essa mudança criará mais tempo livre, autonomia e oportunidades para novos negócios, especialmente para trabalhadores de menor renda.]]></description>
+<guid isPermaLink="false"><![CDATA[1687565 at https://agenciabrasil.ebc.com.br]]></guid>
+<description><![CDATA[A arrecadação de impostos e contribuições do governo federal atingiu R$ 229,2 bilhões em março de 2026, o maior valor para o mês desde 1995. No primeiro trimestre, o total acumulado chegou a R$ 777,12 bilhões, com crescimento real de 4,6% em relação a 2025.]]></description>
 <content:encoded><![CDATA[
-<p>A proposta de reduzir a jornada de trabalho de seis dias por um de descanso pode melhorar a qualidade de vida e impulsionar o empreendedorismo no Brasil. O governo acredita que essa mudança criará mais tempo livre, autonomia e oportunidades para novos negócios, especialmente para trabalhadores de menor renda.</p>
-<p>A redução da escala 6x1 é vista como positiva para a economia, pois oferece mais tempo livre para as pessoas consumirem e empreenderem. O ministro Paulo Pereira destacou que o espírito da autonomia e liberdade de escolha sobre o uso do tempo é fundamental para estimular o empreendedorismo, permitindo que trabalhadores busquem renda extra ou se preparem para mudanças de carreira.</p>
-<p>O impacto da medida será especialmente benéfico para os trabalhadores de menor renda, que enfrentam mais dificuldades. O ministro ressaltou que críticas à redução da jornada costumam repetir discursos históricos contrários a avanços trabalhistas, como o salário mínimo e as férias, e que o temor de que a economia seja prejudicada não se concretizou no passado.</p>
-<p>O governo está atento para adotar medidas que amenizem eventuais impactos negativos da mudança, caso necessário. Entre 10% e 15% dos empreendedores, cerca de quatro a cinco milhões de pessoas, podem sentir algum efeito, mas o governo pretende criar mecanismos, como benefícios fiscais e apoio financeiro, para garantir que ninguém fique desamparado.</p>
-<p>A iniciativa busca promover mais equilíbrio entre trabalho e vida pessoal, fortalecendo a economia e o empreendedorismo em todo o país.</p>
+<p>A arrecadação de impostos e contribuições do governo federal atingiu R$ 229,2 bilhões em março de 2026, o maior valor para o mês desde 1995. No primeiro trimestre, o total acumulado chegou a R$ 777,12 bilhões, com crescimento real de 4,6% em relação a 2025.</p>
+<p>O crescimento real da arrecadação em março foi de 4,99% na comparação com o mesmo mês do ano anterior, já descontada a inflação. O aumento é explicado pelo avanço na arrecadação do Imposto sobre Operações Financeiras (IOF), que cresceu 50,06% no mês, e pelo aumento do emprego formal e da massa salarial, que ampliaram a base de contribuintes.</p>
+<p>Mudanças tributárias recentes também contribuíram para o resultado, incluindo ajustes na tributação de investimentos, reoneração de setores e elevação de impostos sobre operações financeiras e importações. O crescimento da atividade econômica elevou o consumo e a renda, impulsionando a arrecadação de tributos como PIS, Cofins e Imposto de Renda Retido na Fonte (IRRF).</p>
+<p>A arrecadação é fundamental para o cumprimento da meta fiscal de 2026, que prevê superávit equivalente a 0,25% do Produto Interno Bruto (PIB). Apesar do aumento da receita, projeções indicam a possibilidade de déficit nas contas públicas ao final do ano.</p>
+<p>A taxação de dividendos, que passou a valer em 2026, também começou a contribuir para a arrecadação, gerando cerca de R$ 308 milhões em março. A medida cobra 10% de imposto sobre dividendos acima de R$ 50 mil recebidos por pessoas físicas e visa compensar a ampliação da faixa de isenção do Imposto de Renda para quem ganha até R$ 5 mil por mês.</p>
+<p>O desempenho da arrecadação em 2026 dependerá da evolução da economia, do mercado de trabalho e de novas medidas fiscais adotadas pelo governo.</p>
+]]></content:encoded>
+</item>
+<item>
+<title><![CDATA[Acordo Mercosul-União Europeia entra em vigor em maio]]></title>
+<link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-04/lula-assina-decreto-que-promulga-acordo-ue-mercosul</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Tue, 28 Apr 2026 21:11:00 GMT</pubDate>
+<category><![CDATA[Economia]]></category>
+<guid isPermaLink="false"><![CDATA[1687549 at https://agenciabrasil.ebc.com.br]]></guid>
+<description><![CDATA[O presidente Luiz Inácio Lula da Silva assinou o decreto que oficializa o acordo comercial entre Mercosul e União Europeia, que começa a valer em 1º de maio. O tratado prevê a eliminação gradual de tarifas sobre a maior parte dos bens comercializados entre os blocos, fortalecendo a integração econômica entre 31 países.]]></description>
+<content:encoded><![CDATA[
+<p>O presidente Luiz Inácio Lula da Silva assinou o decreto que oficializa o acordo comercial entre Mercosul e União Europeia, que começa a valer em 1º de maio. O tratado prevê a eliminação gradual de tarifas sobre a maior parte dos bens comercializados entre os blocos, fortalecendo a integração econômica entre 31 países.</p>
+<p>O acordo entre Mercosul, formado por Argentina, Brasil, Paraguai e Uruguai, e a União Europeia, composta por 27 países, foi assinado em janeiro após 26 anos de negociações. O pacto cria uma zona de livre comércio com uma população conjunta de 720 milhões de habitantes e um Produto Interno Bruto de cerca de 22 trilhões de dólares.</p>
+<p>Com o tratado, o Mercosul eliminará tarifas sobre 95% dos bens vendidos ao bloco europeu em até 12 anos, enquanto a União Europeia zerará tarifas sobre 91% dos bens europeus em até 15 anos. A ratificação do acordo foi concluída pelo Congresso Nacional brasileiro em março, e os parlamentos dos demais países do Mercosul também já aprovaram o tratado.</p>
+<p>Apesar de o Parlamento Europeu ter solicitado uma avaliação jurídica do acordo pelo Tribunal de Justiça da União Europeia, a Comissão Europeia garantiu a aplicação provisória do tratado a partir de maio. Além disso, o presidente Lula enviou ao Congresso Nacional outros dois acordos comerciais, com Singapura e com a Associação Europeia de Livre Comércio, que ainda aguardam aprovação legislativa.</p>
+<p>O acordo com a Associação Europeia de Livre Comércio inclui países como Suíça, Noruega, Islândia e Liechtenstein, formando um mercado de 290 milhões de consumidores e um PIB conjunto de 4,39 trilhões de dólares. As negociações para esse tratado começaram em 2017 e foram finalizadas em junho de 2025.</p>
+<p>Esses acordos reforçam a estratégia do Mercosul para ampliar sua presença no comércio internacional e fortalecer suas relações econômicas multilaterais.</p>
+]]></content:encoded>
+</item>
+<item>
+<title><![CDATA[Prazo para análise do drawback cai pela metade]]></title>
+<link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-04/mdic-reduz-prazo-de-analise-de-incentivo-exportacao-pela-metade</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Tue, 28 Apr 2026 20:32:00 GMT</pubDate>
+<category><![CDATA[Economia]]></category>
+<guid isPermaLink="false"><![CDATA[1687545 at https://agenciabrasil.ebc.com.br]]></guid>
+<description><![CDATA[O prazo para análise dos pedidos do regime de drawback, importante incentivo às exportações brasileiras, foi reduzido em mais de 50%. A mudança simplifica os procedimentos e acelera o acesso das empresas ao benefício, mantendo as regras para concessão do incentivo.]]></description>
+<content:encoded><![CDATA[
+<p>O prazo para análise dos pedidos do regime de drawback, importante incentivo às exportações brasileiras, foi reduzido em mais de 50%. A mudança simplifica os procedimentos e acelera o acesso das empresas ao benefício, mantendo as regras para concessão do incentivo.</p>
+<p>Antes, a avaliação dos pedidos podia levar até 60 dias, mas com as novas portarias publicadas, o tempo passou a ser inferior a 30 dias. O processo foi simplificado ao permitir o envio de toda a documentação no momento do pedido, eliminando etapas intermediárias que antes separavam a análise inicial da apresentação de documentos adicionais.</p>
+<p>O envio dos documentos é feito por meio do Único Siscomex, sistema que centraliza as operações de comércio exterior no país. As duas portarias autorizam o envio dos documentos junto ao pedido de inclusão no regime e atualizam os manuais operacionais do drawback, facilitando e agilizando o processo.</p>
+<p>O drawback é um mecanismo que reduz ou elimina tributos sobre insumos usados na produção de bens destinados à exportação. Ele abrange impostos como o imposto de importação, IPI, PIS, Cofins e taxas sobre frete, diminuindo o custo de produção para os exportadores e contribuindo para a competitividade do Brasil no comércio internacional.</p>
+<p>Existem duas modalidades principais: suspensão, que elimina impostos na compra de insumos para produtos a serem exportados, e isenção, que permite recuperar tributos pagos anteriormente. Cerca de 1,8 mil empresas utilizam o regime, especialmente nos setores de carnes, mineração, indústria automotiva e química.</p>
+<p>As mudanças no regime de drawback prometem facilitar o acesso das empresas ao benefício e fortalecer a competitividade brasileira no mercado externo.</p>
 ]]></content:encoded>
 </item>
 </channel></rss>
