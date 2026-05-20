@@ -8,70 +8,38 @@
 <atom:link href="https://evwbr.github.io/economia/feed.xml" rel="self" type="application/rss+xml"/>
 <link>https://evwbr.github.io/economia/</link>
 <description>Economia reescrita com IA - Evo Web News</description>
-<lastBuildDate>Tue, 19 May 2026 23:34:51 GMT</lastBuildDate>
+<lastBuildDate>Wed, 20 May 2026 11:34:14 GMT</lastBuildDate>
 <language>pt-BR</language>
 <item>
-<title><![CDATA[Bolsa cai e dólar sobe em meio a incertezas globais e locais]]></title>
-<link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-05/bolsa-atinge-menor-nivel-desde-janeiro-com-exterior-e-tensao-politica</link>
+<title><![CDATA[Novo sistema agiliza bloqueio de contas judiciais]]></title>
+<link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-05/novo-bloqueio-judicial-automatico-de-contas-exige-atencao-de-devedores</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Tue, 19 May 2026 22:18:00 GMT</pubDate>
+<pubDate>Wed, 20 May 2026 10:32:00 GMT</pubDate>
 <category><![CDATA[Economia]]></category>
-<guid isPermaLink="false"><![CDATA[1689996 at https://agenciabrasil.ebc.com.br]]></guid>
-<description><![CDATA[A bolsa brasileira fechou em queda pelo terceiro pregão consecutivo, atingindo o menor nível desde janeiro, enquanto o dólar ultrapassou R$ 5. O cenário é marcado pela aversão global ao risco, alta dos juros nos Estados Unidos e incertezas políticas no Brasil.]]></description>
+<guid isPermaLink="false"><![CDATA[1690013 at https://agenciabrasil.ebc.com.br]]></guid>
+<description><![CDATA[O Conselho Nacional de Justiça implantou um projeto-piloto para modernizar o Sistema de Busca de Ativos, permitindo bloqueios em até duas horas após decisão judicial. O monitoramento das contas pode durar até um ano, com bloqueios automáticos de novos depósitos para garantir a quitação de dívidas.]]></description>
 <content:encoded><![CDATA[
-<p>A bolsa brasileira fechou em queda pelo terceiro pregão consecutivo, atingindo o menor nível desde janeiro, enquanto o dólar ultrapassou R$ 5. O cenário é marcado pela aversão global ao risco, alta dos juros nos Estados Unidos e incertezas políticas no Brasil.</p>
-<p>O Ibovespa encerrou o pregão aos 174. 279 pontos, com recuo de 1, 52%, acumulando perdas próximas de 7% em maio. A queda foi puxada principalmente pelas ações do setor financeiro e pelas mineradoras, afetadas pela desvalorização do minério de ferro no mercado internacional. Além disso, a saída de investidores estrangeiros da Bolsa contribuiu para o desempenho negativo, com retirada líquida próxima de R$ 9, 6 bilhões até a metade do mês.</p>
-<p>No mercado de câmbio, o dólar comercial voltou a superar a marca de R$ 5, fechando em alta de cerca de 0, 84%, aos R$ 5, 041. A valorização da moeda americana ocorreu em meio ao fortalecimento global do dólar e ao aumento das taxas dos títulos do Tesouro dos Estados Unidos. Esse movimento pressiona moedas de países emergentes, como o real, especialmente diante do temor de inflação global elevada e das tensões geopolíticas envolvendo Estados Unidos e Irã.</p>
-<p>Os preços do petróleo fecharam em leve queda, mas permaneceram em níveis elevados, com o barril do Brent cotado a US$ 111, 28 e o WTI a US$ 104, 15. O mercado segue atento às negociações entre Estados Unidos e Irã e aos riscos de interrupção no Estreito de Ormuz, região estratégica para o transporte global de petróleo. Recentemente, o presidente Donald Trump adiou uma ofensiva militar contra o Irã para abrir espaço para negociações diplomáticas, mas alertou para possível ação militar caso não haja acordo.</p>
+<p>O Conselho Nacional de Justiça implantou um projeto-piloto para modernizar o Sistema de Busca de Ativos, permitindo bloqueios em até duas horas após decisão judicial. O monitoramento das contas pode durar até um ano, com bloqueios automáticos de novos depósitos para garantir a quitação de dívidas.</p>
+<p>O novo sistema, em fase de testes por 18 meses, envolve cinco bancos que firmaram acordo com o Conselho Nacional de Justiça: Caixa Econômica Federal, Banco do Brasil, Itaú Unibanco, Nubank e XP Investimentos. As ordens judiciais passam a ser enviadas duas vezes ao dia, às 13h e às 20h, reduzindo o tempo de execução de um a dois dias úteis para apenas duas horas.</p>
+<p>Além da rapidez, o sistema amplia a duração dos bloqueios, que antes atingiam somente o saldo disponível no momento da ordem. Agora, a determinação pode permanecer ativa por até um ano, permitindo o bloqueio automático de novos depósitos, como salários e transferências, até que a dívida seja quitada.</p>
+<p>Apesar da ampliação dos bloqueios, a legislação protege salários, aposentadorias, pensões e parte dos valores em poupança. O novo modelo exige reação rápida do devedor, que pode ser surpreendido pelo bloqueio ao tentar movimentar a conta. Após a liminar, o devedor tem até cinco dias para solicitar o desbloqueio, comprovando que o valor retido compromete sua sobrevivência ou que atingiu valores protegidos.</p>
+<p>A recomendação é acompanhar os processos judiciais regularmente, manter comprovantes de renda organizados e buscar orientação jurídica imediata em caso de bloqueio. O sistema automatiza a comunicação entre tribunais e bancos, tornando a recuperação de dívidas mais eficiente e dificultando a movimentação dos recursos para contas de terceiros.</p>
 ]]></content:encoded>
 </item>
 <item>
-<title><![CDATA[Brasil lança primeiro ecossistema comercial de IA generativa em português]]></title>
-<link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-05/novo-programa-de-ia-para-servico-publico-inclui-seguranca-e-educacao</link>
+<title><![CDATA[Caixa paga Bolsa Família para beneficiários com NIS final 3]]></title>
+<link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-05/caixa-paga-bolsa-familia-beneficiarios-com-nis-de-final-3</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Tue, 19 May 2026 22:10:00 GMT</pubDate>
+<pubDate>Wed, 20 May 2026 10:03:00 GMT</pubDate>
 <category><![CDATA[Economia]]></category>
-<guid isPermaLink="false"><![CDATA[1689995 at https://agenciabrasil.ebc.com.br]]></guid>
-<description><![CDATA[O primeiro ecossistema comercial brasileiro de inteligência artificial generativa em português foi lançado oficialmente em Brasília. A iniciativa público-privada, liderada pelo Governo do Piauí, visa oferecer soluções tecnológicas adaptadas à gestão pública e ao contexto cultural brasileiro.]]></description>
+<guid isPermaLink="false"><![CDATA[1689962 at https://agenciabrasil.ebc.com.br]]></guid>
+<description><![CDATA[A Caixa Econômica Federal realiza nesta quarta-feira o pagamento da parcela de maio do Bolsa Família para beneficiários com Número de Inscrição Social final 3. O programa atenderá 19, 08 milhões de famílias, com um gasto total de R$ 12, 9 bilhões neste mês.]]></description>
 <content:encoded><![CDATA[
-<p>O primeiro ecossistema comercial brasileiro de inteligência artificial generativa em português foi lançado oficialmente em Brasília. A iniciativa público-privada, liderada pelo Governo do Piauí, visa oferecer soluções tecnológicas adaptadas à gestão pública e ao contexto cultural brasileiro.</p>
-<p>O sistema SoberanIA foi desenvolvido com apoio do Ministério da Ciência, Tecnologia e Inovação e do Ministério das Comunicações, alinhado ao Plano Brasileiro de Inteligência Artificial e ao programa Nova Indústria Brasil. A plataforma inclui tecnologias para automatizar atendimentos, apoiar a produção de documentos, auxiliar professores e analisar grandes volumes de informações.</p>
-<p>Seis produtos estão disponíveis, entre eles o Gov Chat para acesso a serviços públicos via aplicativo de mensagens, o BO Fácil para registro de boletins de ocorrência por áudio ou texto, e o Seduc IA para materiais didáticos personalizados. As soluções foram treinadas com grande volume de dados relacionados à gestão pública e já operam no Piauí há mais de um ano.</p>
-<p>Mais de 70 pesquisadores participaram do desenvolvimento do programa, que agora entra em fase comercial para atender municípios, estados, autarquias e estatais. O projeto integra a estratégia federal para a soberania digital, reduzindo a dependência de soluções estrangeiras e promovendo uma plataforma nacional adaptada à língua portuguesa e ao contexto sociocultural do país.</p>
-<p>O lançamento do SoberanIA representa um avanço importante para a produção nacional de inteligência artificial no Brasil, ampliando o uso da tecnologia no setor público.</p>
-]]></content:encoded>
-</item>
-<item>
-<title><![CDATA[Conta de luz terá desconto para consumidores de 22 distribuidoras]]></title>
-<link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-05/aneel-aprova-r-55-bi-para-reduzir-conta-de-luz-em-22-distribuidoras</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Tue, 19 May 2026 20:56:00 GMT</pubDate>
-<category><![CDATA[Economia]]></category>
-<guid isPermaLink="false"><![CDATA[1689985 at https://agenciabrasil.ebc.com.br]]></guid>
-<description><![CDATA[A Agência Nacional de Energia Elétrica aprovou regras para devolver até R$ 5, 5 bilhões aos consumidores por meio de descontos nas contas de luz em regiões do Norte, Nordeste, Mato Grosso, Minas Gerais e Espírito Santo. A medida visa aliviar o custo das tarifas em áreas com geração e distribuição mais caras, especialmente onde há dependência de usinas a diesel.]]></description>
-<content:encoded><![CDATA[
-<p>A Agência Nacional de Energia Elétrica aprovou regras para devolver até R$ 5, 5 bilhões aos consumidores por meio de descontos nas contas de luz em regiões do Norte, Nordeste, Mato Grosso, Minas Gerais e Espírito Santo. A medida visa aliviar o custo das tarifas em áreas com geração e distribuição mais caras, especialmente onde há dependência de usinas a diesel.</p>
-<p>Os recursos para os descontos virão do encargo Uso de Bem Público, pago pelas hidrelétricas à União pelo uso dos rios para geração de energia. Embora o pagamento seja feito pelas geradoras, esse custo é repassado aos consumidores pelas distribuidoras. Uma lei recente permitiu que as hidrelétricas antecipassem o pagamento dessas parcelas futuras com desconto de 50%, e o valor arrecadado será usado para reduzir as tarifas nas áreas atendidas pela Sudam e Sudene.</p>
-<p>A Aneel definiu a metodologia para distribuir os recursos entre as distribuidoras beneficiadas, considerando o tamanho do mercado e os custos regionais. Inicialmente, esperava-se arrecadar até R$ 7, 9 bilhões, mas apenas 24 das 34 empresas elegíveis aderiram, reduzindo a previsão para cerca de R$ 5, 5 bilhões. O pagamento está previsto para julho, e a partir do valor arrecadado serão definidos os percentuais de desconto nas contas de luz.</p>
-<p>A redução média estimada nas tarifas pode chegar a 4, 51%, dependendo do montante arrecadado e dos reajustes tarifários de cada distribuidora em 2026. A política beneficia consumidores cativos das regiões Norte, Nordeste, Mato Grosso e partes de Minas Gerais e Espírito Santo, que compram energia diretamente das distribuidoras e não participam do mercado livre.</p>
-<p>Algumas distribuidoras já começaram a aplicar parte dos descontos antes da arrecadação definitiva, como as concessionárias da Neoenergia na Bahia e da Equatorial no Amapá. A Amazonas Energia recebeu R$ 735 milhões para reduzir o reajuste médio de 23, 15% para 6, 58%. Outras empresas, como Enel Ceará e Energisa Rondônia, ainda aguardam a liberação dos recursos para aplicar os descontos.</p>
-<p>A iniciativa busca diminuir o impacto das tarifas de energia em regiões com custos mais elevados e menor número de consumidores, promovendo maior equilíbrio no setor elétrico.</p>
-]]></content:encoded>
-</item>
-<item>
-<title><![CDATA[Lula lança linha de crédito para motoristas de aplicativos e taxistas]]></title>
-<link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-05/lula-cria-programa-de-r-30-bilhoes-para-motoristas-de-aplicativos</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Tue, 19 May 2026 20:48:00 GMT</pubDate>
-<category><![CDATA[Economia]]></category>
-<guid isPermaLink="false"><![CDATA[1689965 at https://agenciabrasil.ebc.com.br]]></guid>
-<description><![CDATA[O presidente Luiz Inácio Lula da Silva assinou medida provisória que cria o programa Move Aplicativos, oferecendo linhas especiais de financiamento para compra de carros novos a juros mais baixos para motoristas de aplicativos e taxistas. A iniciativa faz parte do programa Move Brasil e prevê condições facilitadas para aquisição de veículos sustentáveis, com recursos de até R$ 30 bilhões.]]></description>
-<content:encoded><![CDATA[
-<p>O presidente Luiz Inácio Lula da Silva assinou medida provisória que cria o programa Move Aplicativos, oferecendo linhas especiais de financiamento para compra de carros novos a juros mais baixos para motoristas de aplicativos e taxistas. A iniciativa faz parte do programa Move Brasil e prevê condições facilitadas para aquisição de veículos sustentáveis, com recursos de até R$ 30 bilhões.</p>
-<p>O programa Move Aplicativos será destinado a taxistas registrados e motoristas de aplicativos com cadastro ativo há pelo menos um ano e com no mínimo 100 corridas no mesmo período, na mesma plataforma. Os veículos financiados poderão custar até R$ 150 mil, deverão ser de montadoras habilitadas e enquadrados como sustentáveis, podendo ser flex, elétricos ou híbridos a etanol. A expectativa é que pelo menos 200 mil carros sejam comercializados por meio do programa.</p>
-<p>Os recursos serão repassados pelo Ministério da Fazenda ao Banco Nacional de Desenvolvimento Econômico e Social (BNDES), que será responsável pela operacionalização do programa. As taxas de juros e os prazos ainda serão definidos pelo Conselho Monetário Nacional (CMN) nesta semana. O presidente Lula destacou que o financiamento permitirá que motoristas paguem parcelas menores e adquiram um patrimônio próprio, reduzindo custos com manutenção.</p>
-<p>Além disso, o presidente assinou medida provisória que reduz exigências para o trabalho de mototaxistas e motoboys, eliminando a obrigatoriedade do curso de motofrete, da placa vermelha e do limite mínimo de idade de 20 anos para atuar na função. O ministro-chefe da Secretaria-Geral da Presidência da República explicou que essas mudanças visam facilitar o acesso ao trabalho para esses profissionais.</p>
-<p>O programa Move Aplicativos representa uma nova oportunidade para motoristas e taxistas adquirirem veículos com condições financeiras mais acessíveis e menos burocracia.</p>
+<p>A Caixa Econômica Federal realiza nesta quarta-feira o pagamento da parcela de maio do Bolsa Família para beneficiários com Número de Inscrição Social final 3. O programa atenderá 19, 08 milhões de famílias, com um gasto total de R$ 12, 9 bilhões neste mês.</p>
+<p>O valor mínimo do benefício é de R$ 600, mas com os adicionais, o valor médio sobe para R$ 678, 01. O Bolsa Família inclui pagamentos adicionais para mães de bebês de até seis meses, gestantes, nutrizes e crianças de diferentes faixas etárias, com valores que variam entre R$ 50 e R$ 150.</p>
+<p>O pagamento tradicional ocorre nos últimos dez dias úteis de cada mês, e os beneficiários podem consultar as datas e valores no aplicativo Caixa Tem. Em maio, cerca de 2, 26 milhões de famílias estão na regra de proteção, que permite receber metade do benefício por até dois anos, caso a renda aumente, desde que cada membro receba até R$ 706.</p>
+<p>Desde 2024, não há mais desconto do Seguro Defeso para os beneficiários do Bolsa Família, 601/2023. Além disso, o pagamento foi antecipado para moradores de 217 cidades em nove estados, incluindo municípios afetados por seca, chuvas e comunidades indígenas em situação vulnerável.</p>
+<p>Os beneficiários podem acompanhar informações detalhadas sobre seus pagamentos e benefícios diretamente pelo aplicativo Caixa Tem.</p>
 ]]></content:encoded>
 </item>
 </channel></rss>
