@@ -8,21 +8,55 @@
 <atom:link href="https://evwbr.github.io/economia/feed.xml" rel="self" type="application/rss+xml"/>
 <link>https://evwbr.github.io/economia/</link>
 <description>Economia reescrita com IA - Evo Web News</description>
-<lastBuildDate>Sun, 31 May 2026 23:34:07 GMT</lastBuildDate>
+<lastBuildDate>Mon, 01 Jun 2026 15:34:20 GMT</lastBuildDate>
 <language>pt-BR</language>
 <item>
-<title><![CDATA[Petrobras anuncia desconto no preço do óleo diesel]]></title>
-<link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-05/petrobras-implementa-desconto-no-diesel-partir-de-segunda-feira</link>
+<title><![CDATA[Petrobras reduz preço do querosene de aviação em 14, 2%]]></title>
+<link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/petrobras-reduz-preco-do-querosene-de-aviacao-em-142</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Sun, 31 May 2026 20:45:00 GMT</pubDate>
+<pubDate>Mon, 01 Jun 2026 14:44:00 GMT</pubDate>
 <category><![CDATA[Economia]]></category>
-<guid isPermaLink="false"><![CDATA[1691904 at https://agenciabrasil.ebc.com.br]]></guid>
-<description><![CDATA[A Petrobras informará a partir de segunda-feira um desconto de R$ 0, 3515 por litro no óleo diesel A, usado em veículos rodoviários. A redução faz parte da subvenção econômica instituída pelo governo federal para estabilizar o preço e garantir o abastecimento.]]></description>
+<guid isPermaLink="false"><![CDATA[1691958 at https://agenciabrasil.ebc.com.br]]></guid>
+<description><![CDATA[A Petrobras anunciou uma redução de 14, 2% no preço do querosene de aviação, representando uma queda de R$ 0, 93 por litro nas refinarias. O novo valor do combustível varia entre R$ 5, 48 e R$ 5, 69 por litro, marcando o primeiro recuo após três aumentos consecutivos.]]></description>
 <content:encoded><![CDATA[
-<p>A Petrobras informará a partir de segunda-feira um desconto de R$ 0, 3515 por litro no óleo diesel A, usado em veículos rodoviários. A redução faz parte da subvenção econômica instituída pelo governo federal para estabilizar o preço e garantir o abastecimento.</p>
-<p>O desconto aplicado corresponde ao valor fixado pelo Ministério da Fazenda e será repassado às distribuidoras, reduzindo o preço médio de venda do óleo diesel de R$ 3, 65 para R$ 3, 30 por litro. Esse valor é 37, 4% menor do que o praticado em 31 de dezembro de 2022, considerando a inflação no período.</p>
-<p>Para o consumidor final, o desconto neutralizará a reoneração do PIS e Cofins que também entrará em vigor a partir de 1º de junho. A subvenção econômica foi autorizada pelo governo federal por meio da Medida Provisória nº 1. 363/2026, no valor de R$ 1, 12 por litro, visando estabilizar o preço e garantir o abastecimento do diesel.</p>
-<p>A Petrobras informou que está avaliando os termos da nova subvenção e que qualquer decisão sobre o tema será divulgada tempestivamente ao mercado nacional. A iniciativa busca manter a estabilidade do mercado de diesel e assegurar o abastecimento para o setor rodoviário em todo o país.</p>
+<p>A Petrobras anunciou uma redução de 14, 2% no preço do querosene de aviação, representando uma queda de R$ 0, 93 por litro nas refinarias. O novo valor do combustível varia entre R$ 5, 48 e R$ 5, 69 por litro, marcando o primeiro recuo após três aumentos consecutivos.</p>
+<p>O preço do querosene de aviação é reajustado mensalmente pela Petrobras, sempre no dia 1º. A queda anunciada em junho ocorre após um aumento de 55% em abril, refletindo a alta dos preços internacionais devido ao conflito no Oriente Médio e ao bloqueio do Estreito de Ormuz, que afetou cerca de 20% da produção mundial de óleo e gás.</p>
+<p>Desde janeiro, o preço do querosene de aviação acumula alta de 54, 5%, ou R$ 1, 98 por litro. A Petrobras explicou que a redução reflete uma atenuação nas cotações internacionais e que sua política de preços utiliza uma fórmula paramétrica que modera os reajustes, mantendo o preço competitivo em relação ao mercado internacional, onde os ajustes podem ocorrer até diariamente.</p>
+<p>Mesmo com a redução, a Petrobras manterá a opção de parcelamento da compra do querosene em seis parcelas mensais, medida que ajuda a diluir o impacto financeiro para os compradores. A estatal confirmou que os volumes solicitados pelas distribuidoras para junho estão garantidos, sem risco de desabastecimento.</p>
+<p>O querosene de aviação faz parte de um pacote de medidas do governo para conter o aumento dos preços dos derivados do petróleo. Foi prorrogada por dois meses a desoneração do PIS/Cofins sobre o combustível, válida até 31 de julho, e as companhias aéreas receberam carência para pagamento das tarifas de navegação aérea referentes a julho, agosto e setembro, com vencimento em dezembro.</p>
+<p>A redução no preço do querosene de aviação traz alívio para as companhias aéreas e reforça o compromisso da Petrobras em manter o abastecimento estável no país.</p>
+]]></content:encoded>
+</item>
+<item>
+<title><![CDATA[Imposto de Renda pode deixar de ser declarado manualmente]]></title>
+<link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/receita-pode-deixar-de-exigir-declaracao-do-ir-em-ate-tres-anos</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Mon, 01 Jun 2026 13:36:00 GMT</pubDate>
+<category><![CDATA[Economia]]></category>
+<guid isPermaLink="false"><![CDATA[1691929 at https://agenciabrasil.ebc.com.br]]></guid>
+<description><![CDATA[O ministro da Fazenda, Dario Durigan, anunciou que em dois ou três anos os contribuintes brasileiros poderão deixar de fazer a declaração manual do Imposto de Renda. A mudança será possível graças à automação dos procedimentos fiscais promovida pelo governo federal, que integra dados financeiros automaticamente.]]></description>
+<content:encoded><![CDATA[
+<p>O ministro da Fazenda, Dario Durigan, anunciou que em dois ou três anos os contribuintes brasileiros poderão deixar de fazer a declaração manual do Imposto de Renda. A mudança será possível graças à automação dos procedimentos fiscais promovida pelo governo federal, que integra dados financeiros automaticamente.</p>
+<p>Durigan explicou que a Receita Federal está desenvolvendo um sistema automatizado que reúne informações financeiras dos contribuintes, eliminando a necessidade do preenchimento manual da declaração. Atualmente, cerca de 60% dos contribuintes já utilizam a declaração pré-preenchida, que inclui dados sobre rendimentos, bens, investimentos e deduções.</p>
+<p>O sistema automático integrará dados de bases oficiais e privadas, como informações bancárias, registros de empresas e planos de saúde. Com isso, o contribuinte apenas precisará revisar e validar as informações apresentadas, simplificando o processo e reduzindo o tempo gasto com a prestação dessas informações.</p>
+<p>O ministro destacou que o objetivo é aliviar os contribuintes, evitando que eles percam tempo útil de trabalho ou descanso para prestar informações que já estão disponíveis. A proposta prevê uma ampliação gradual do modelo até que a declaração manual deixe de ser necessária.</p>
+<p>A expectativa é que essa inovação traga mais praticidade e eficiência para a entrega do Imposto de Renda nos próximos anos.</p>
+]]></content:encoded>
+</item>
+<item>
+<title><![CDATA[Mercado eleva previsão da inflação para 2024]]></title>
+<link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/mercado-financeiro-eleva-previsao-da-inflacao-para-509-este-ano</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Mon, 01 Jun 2026 12:39:00 GMT</pubDate>
+<category><![CDATA[Economia]]></category>
+<guid isPermaLink="false"><![CDATA[1691925 at https://agenciabrasil.ebc.com.br]]></guid>
+<description><![CDATA[A previsão do mercado financeiro para o IPCA em 2024 subiu de 5, 04% para 5, 09%, ultrapassando o teto da meta estabelecida pelo Banco Central. A alta é influenciada pela guerra no Oriente Médio, que pressiona os preços dos combustíveis e alimentos, impactando a inflação oficial do país.]]></description>
+<content:encoded><![CDATA[
+<p>A previsão do mercado financeiro para o IPCA em 2024 subiu de 5, 04% para 5, 09%, ultrapassando o teto da meta estabelecida pelo Banco Central. A alta é influenciada pela guerra no Oriente Médio, que pressiona os preços dos combustíveis e alimentos, impactando a inflação oficial do país.</p>
+<p>O Conselho Monetário Nacional definiu a meta de inflação em 3%, com intervalo de tolerância entre 1, 5% e 4, 5%. O IPCA acumulado em 12 meses está em 4, 39%, ainda dentro do limite superior, mas a projeção para o ano ultrapassa esse teto pela décima segunda semana consecutiva. Em abril, a inflação oficial fechou em 0, 67%, pressionada principalmente pelo aumento dos preços dos alimentos.</p>
+<p>Para controlar a inflação, o Banco Central utiliza a taxa Selic, atualmente em 14, 5% ao ano. O Comitê de Política Monetária reduziu os juros em 0, 25 ponto percentual na última reunião, apesar das tensões internacionais que dificultam o controle inflacionário. O Copom monitora o conflito no Oriente Médio e seus efeitos, com a próxima decisão sobre a Selic prevista para os dias 16 e 17 de junho.</p>
+<p>As projeções para a Selic indicam manutenção em 13, 25% ao ano até o fim de 2026, com reduções previstas para 11, 25% em 2027 e 10% em 2028 e 2029. Quanto ao crescimento econômico, a estimativa para o PIB em 2024 foi ajustada de 1, 89% para 1, 9%, mantendo-se em 1, 7% para 2027 e em 2% para 2028 e 2029. A cotação do dólar está prevista em R$ 5, 16 para o final deste ano e em R$ 5, 25 para o fim de 2027.</p>
+<p>O mercado financeiro segue atento às variáveis que impactam a inflação e a economia, acompanhando as decisões do Banco Central e os efeitos do cenário internacional.</p>
 ]]></content:encoded>
 </item>
 </channel></rss>
