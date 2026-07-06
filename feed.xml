@@ -8,23 +8,23 @@
 <atom:link href="https://evwbr.github.io/economia/feed.xml" rel="self" type="application/rss+xml"/>
 <link>https://evwbr.github.io/economia/</link>
 <description>Economia reescrita com IA - Evo Web News</description>
-<lastBuildDate>Mon, 06 Jul 2026 15:34:13 GMT</lastBuildDate>
+<lastBuildDate>Mon, 06 Jul 2026 19:34:14 GMT</lastBuildDate>
 <language>pt-BR</language>
 <item>
-<title><![CDATA[Mercado reduz projeção da inflação para 2024]]></title>
-<link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/mercado-financeiro-reduz-projecao-da-inflacao-para-530</link>
+<title><![CDATA[Reforma tributária traz desafios para controle de créditos fiscais]]></title>
+<link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/reforma-tributaria-poe-em-risco-credito-de-662-das-notas-fiscais</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Mon, 06 Jul 2026 12:59:00 GMT</pubDate>
+<pubDate>Mon, 06 Jul 2026 19:26:00 GMT</pubDate>
 <category><![CDATA[Economia]]></category>
-<guid isPermaLink="false"><![CDATA[1695981 at https://agenciabrasil.ebc.com.br]]></guid>
-<description><![CDATA[O mercado financeiro revisou para baixo a projeção do Índice Nacional de Preços ao Consumidor Amplo (IPCA) para 2024, que caiu de 5, 33% para 5, 30%. Apesar da redução, o índice permanece acima da meta estabelecida pelo Banco Central, que é de 3%, com intervalo de tolerância entre 1, 5% e 4, 5%.]]></description>
+<guid isPermaLink="false"><![CDATA[1696016 at https://agenciabrasil.ebc.com.br]]></guid>
+<description><![CDATA[A reforma tributária, em fase de testes para 2026 e com início efetivo em 2027, impõe desafios para as empresas no controle dos impostos e no aproveitamento dos créditos tributários. Um levantamento aponta que mais de 66% das notas fiscais eletrônicas analisadas apresentam problemas que podem dificultar esse aproveitamento no novo sistema.]]></description>
 <content:encoded><![CDATA[
-<p>O mercado financeiro revisou para baixo a projeção do Índice Nacional de Preços ao Consumidor Amplo (IPCA) para 2024, que caiu de 5, 33% para 5, 30%. Apesar da redução, o índice permanece acima da meta estabelecida pelo Banco Central, que é de 3%, com intervalo de tolerância entre 1, 5% e 4, 5%.</p>
-<p>A queda na projeção do IPCA ocorre pela primeira vez após 16 semanas consecutivas de alta nas estimativas. Para os anos seguintes, a inflação projetada apresenta uma leve alta para 2027, passando de 4, 17% para 4, 18%. As estimativas para 2028 e 2029 permanecem estáveis em 3, 7% e 3, 5%, respectivamente.</p>
-<p>Em relação à taxa básica de juros, a Selic, a projeção para 2026 foi mantida em 14%, indicando a expectativa de mais um corte em relação à taxa atual de 14, 25%. Para 2027, a taxa prevista permanece em 12% ao ano, enquanto as estimativas para 2028 e 2029 seguem em 10, 5% e 10%, respectivamente.</p>
-<p>A estimativa para o crescimento do Produto Interno Bruto (PIB) em 2024 permanece em 1, 99%. Para 2027, houve uma leve alta na projeção, de 1, 68% para 1, 69%. As previsões para 2028 e 2029 mantêm-se estáveis em 2% para ambos os anos.</p>
-<p>No mercado cambial, a cotação do dólar para 2026 segue estimada em R$ 5, 20. Para os anos seguintes, as projeções permanecem em R$ 5, 58 para 2027, R$ 5, 35 para 2028 e R$ 5, 40 para 2029, sem alterações em relação à última semana.</p>
-<p>Essas projeções refletem as expectativas atuais do mercado financeiro sobre a economia brasileira para os próximos anos.</p>
+<p>A reforma tributária, em fase de testes para 2026 e com início efetivo em 2027, impõe desafios para as empresas no controle dos impostos e no aproveitamento dos créditos tributários. Um levantamento aponta que mais de 66% das notas fiscais eletrônicas analisadas apresentam problemas que podem dificultar esse aproveitamento no novo sistema.</p>
+<p>Os créditos tributários representam o abatimento de tributos pagos sobre insumos ao longo da cadeia produtiva, com o objetivo de evitar a cobrança em cascata. A reforma generalizou o regime de créditos ao extinguir regimes especiais e cumulativos, substituindo gradualmente tributos atuais sobre o consumo pelo Imposto sobre Bens e Serviços (IBS) e pela Contribuição sobre Bens e Serviços (CBS).</p>
+<p>O estudo analisou mais de 6, 4 milhões de notas fiscais eletrônicas e revelou que 64, 4% delas chegaram com os campos destinados ao IBS e à CBS sem preenchimento. Além disso, 1, 8% apresentaram divergências entre os cálculos informados pelos fornecedores e os valores de referência para validação, o que pode impedir o aproveitamento integral dos créditos tributários.</p>
+<p>A qualidade das informações prestadas pelos fornecedores é fundamental, pois apenas 35, 8% dos 139 mil fornecedores analisados preencheram corretamente os novos campos. A gestão da cadeia de suprimentos torna-se essencial para evitar perdas financeiras, especialmente diante do baixo uso das novas funcionalidades previstas na reforma nos eventos fiscais registrados.</p>
+<p>O novo modelo exige processos integrados entre áreas fiscal, financeira, compras, tecnologia e jurídica, com maior uso de automação para validar documentos em grande escala. As empresas precisam migrar de uma postura reativa para uma preventiva, validando documentos antes do uso para garantir o crédito e evitar riscos financeiros e fiscais.</p>
+<p>A preparação para a reforma tributária requer revisão completa dos processos internos para assegurar o aproveitamento correto dos créditos e a conformidade fiscal das empresas.</p>
 ]]></content:encoded>
 </item>
 </channel></rss>
