@@ -8,21 +8,36 @@
 <atom:link href="https://evwbr.github.io/economia/feed.xml" rel="self" type="application/rss+xml"/>
 <link>https://evwbr.github.io/economia/</link>
 <description>Economia reescrita com IA - Evo Web News</description>
-<lastBuildDate>Thu, 06 Aug 2026 15:17:37 GMT</lastBuildDate>
+<lastBuildDate>Thu, 06 Aug 2026 19:17:43 GMT</lastBuildDate>
 <language>pt-BR</language>
 <item>
-<title><![CDATA[Ministro da Fazenda explica alta da dívida brasileira]]></title>
-<link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/durigan-diz-que-aumento-da-divida-decorre-dos-juros-nao-dos-gastos</link>
+<title><![CDATA[Lei do Frete torna permanentes regras para transporte rodoviário]]></title>
+<link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/entenda-o-que-muda-com-nova-lei-do-frete</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Thu, 06 Aug 2026 14:54:00 GMT</pubDate>
+<pubDate>Thu, 06 Aug 2026 16:08:00 GMT</pubDate>
 <category><![CDATA[Economia]]></category>
-<guid isPermaLink="false"><![CDATA[1698905 at https://agenciabrasil.ebc.com.br]]></guid>
-<description><![CDATA[O ministro da Fazenda, Dario Durigan, afirmou que o aumento da dívida brasileira não resulta do crescimento dos gastos públicos, mas dos juros elevados cobrados no país. Ele destacou que a necessidade de pagar dívidas antigas com títulos novos eleva os encargos financeiros do governo.]]></description>
+<guid isPermaLink="false"><![CDATA[1698921 at https://agenciabrasil.ebc.com.br]]></guid>
+<description><![CDATA[A Lei do Frete foi sancionada esta semana e oficializa medidas que estavam em vigor desde março para aprimorar a fiscalização do transporte rodoviário de cargas. Entre as principais mudanças, a lei torna obrigatória a utilização do Código Identificador da Operação de Transporte, o Ciot, para registrar as operações de frete.]]></description>
 <content:encoded><![CDATA[
-<p>O ministro da Fazenda, Dario Durigan, afirmou que o aumento da dívida brasileira não resulta do crescimento dos gastos públicos, mas dos juros elevados cobrados no país. Ele destacou que a necessidade de pagar dívidas antigas com títulos novos eleva os encargos financeiros do governo.</p>
-<p>Dario Durigan explicou que o governo precisa renovar suas dívidas emitindo novos títulos, o que implica em pagamento de juros maiores. Esse mecanismo contribui diretamente para o aumento da dívida pública, independentemente do controle dos gastos.</p>
-<p>O ministro reconheceu que existe uma relação entre a situação fiscal do país e as taxas de juros aplicadas, mas ressaltou que outros fatores importantes também influenciam as altas taxas cobradas no Brasil. Esses elementos combinados tornam o custo da dívida mais elevado.</p>
-<p>A análise do ministro destaca a complexidade dos fatores que afetam a dívida pública e os juros no Brasil atualmente.</p>
+<p>A Lei do Frete foi sancionada esta semana e oficializa medidas que estavam em vigor desde março para aprimorar a fiscalização do transporte rodoviário de cargas. Entre as principais mudanças, a lei torna obrigatória a utilização do Código Identificador da Operação de Transporte, o Ciot, para registrar as operações de frete.</p>
+<p>O Ciot é um mecanismo fundamental para garantir maior transparência e controle sobre as operações de frete. Com a obrigatoriedade do código, as autoridades podem monitorar o cumprimento do piso mínimo estabelecido pela Agência Nacional de Transportes Terrestres, promovendo mais segurança e justiça nas negociações entre transportadores e contratantes.</p>
+<p>Antes da sanção da lei, as medidas estavam em caráter temporário, mas agora passam a ter validade permanente. Isso reforça o compromisso com a regulação do setor e a proteção dos direitos dos profissionais envolvidos no transporte rodoviário de cargas, além de contribuir para a organização e eficiência do mercado.</p>
+<p>A nova legislação representa um avanço importante para o transporte rodoviário, garantindo maior fiscalização e transparência nas operações de frete em todo o país.</p>
+]]></content:encoded>
+</item>
+<item>
+<title><![CDATA[Proporção de famílias endividadas atinge novo recorde em julho]]></title>
+<link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/cnc-endividamento-das-familias-sobe-para-82-mas-inadimplencia-cai</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Thu, 06 Aug 2026 15:51:00 GMT</pubDate>
+<category><![CDATA[Economia]]></category>
+<guid isPermaLink="false"><![CDATA[1698918 at https://agenciabrasil.ebc.com.br]]></guid>
+<description><![CDATA[Em julho, 82% das famílias brasileiras tinham algum tipo de dívida, o maior índice registrado pelo sexto mês consecutivo. Apesar disso, a inadimplência apresentou leve queda, chegando a 29, 8% no mesmo período.]]></description>
+<content:encoded><![CDATA[
+<p>Em julho, 82% das famílias brasileiras tinham algum tipo de dívida, o maior índice registrado pelo sexto mês consecutivo. Apesar disso, a inadimplência apresentou leve queda, chegando a 29, 8% no mesmo período.</p>
+<p>O indicador que mede a proporção de famílias com dívidas, sejam elas em atraso ou não, alcançou 82% em julho, superando o índice de 81, 6% registrado em junho. Esse é o maior patamar já registrado, mantendo a tendência de alta pelo sexto mês seguido, e também supera os 78, 5% observados em julho do ano passado.</p>
+<p>Por outro lado, a parcela de famílias com dívidas atrasadas, conhecida como inadimplência, apresentou uma leve redução em julho. O índice caiu para 29, 8%, ante 29, 9% no mês anterior, e também está abaixo dos 30% registrados no mesmo mês do ano passado.</p>
+<p>Esses dados indicam que, apesar do aumento no número de famílias endividadas, a inadimplência apresenta uma tendência de leve queda em julho.</p>
 ]]></content:encoded>
 </item>
 </channel></rss>
